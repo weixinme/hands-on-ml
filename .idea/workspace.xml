@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1461619c-55e9-4777-b5d0-9c41adfa1c36" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="1461619c-55e9-4777-b5d0-9c41adfa1c36" name="Default Changelist" comment="" />
+>>>>>>> d7a9a38... chapter 06 decision tree
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +24,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
+=======
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+>>>>>>> d7a9a38... chapter 06 decision tree
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -49,7 +59,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598774402217</updated>
+<<<<<<< HEAD
       <workItem from="1598774403430" duration="5262000" />
+=======
+      <workItem from="1598774403430" duration="6171000" />
+      <workItem from="1598857473526" duration="2218000" />
+      <workItem from="1598953365458" duration="3175000" />
+>>>>>>> d7a9a38... chapter 06 decision tree
     </task>
     <servers />
   </component>
@@ -61,7 +77,13 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State />
+=======
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+>>>>>>> d7a9a38... chapter 06 decision tree
           </value>
         </entry>
       </map>
